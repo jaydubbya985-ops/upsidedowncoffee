@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Upside Down Coffee on the Go — GVL Finals 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #111; font-family: Poppins, system-ui, sans-serif; color: #1a1a1a; }
+    .sheet {
+      width: 210mm;
+      height: 297mm;
+      margin: 0 auto;
+      background: #faf7f2;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .top {
+      background: #1a1a1a;
+      color: #fff;
+      display: grid;
+      grid-template-columns: 28mm 1fr;
+      gap: 10px;
+      align-items: center;
+      padding: 8mm 12mm 7mm;
+    }
+    .top img { width: 26mm; height: 26mm; object-fit: cover; border-radius: 50%; background: #000; }
+    .kicker { letter-spacing: .18em; text-transform: uppercase; font-size: 10px; color: #f4a261; font-weight: 700; }
+    h1 { font-size: 26px; line-height: 1.05; font-weight: 800; }
+    .hero {
+      height: 92mm;
+      background: #222;
+      position: relative;
+    }
+    .hero img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 18% 50%;
+    }
+    .hero .cap {
+      position: absolute;
+      left: 12mm;
+      bottom: 8mm;
+      background: #e85d04;
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 6px 10px;
+    }
+    .body { padding: 8mm 12mm 6mm; flex: 1; display: flex; flex-direction: column; }
+    .tag { font-size: 16px; font-weight: 600; margin-bottom: 8px; }
+    .dates {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 6px;
+      margin: 8px 0 10px;
+    }
+    .dates div {
+      background: #1a1a1a;
+      color: #fff;
+      padding: 8px 8px 7px;
+    }
+    .dates strong { display: block; color: #f4a261; font-size: 10px; letter-spacing: .12em; text-transform: uppercase; }
+    .dates span { font-size: 12.5px; font-weight: 600; }
+    .cols { display: grid; grid-template-columns: 1.15fr .85fr; gap: 12px; }
+    h2 { font-size: 14px; color: #e85d04; text-transform: uppercase; letter-spacing: .08em; margin-bottom: 6px; }
+    ul { padding-left: 16px; font-size: 13.5px; line-height: 1.4; }
+    li { margin: 0 0 5px; }
+    .panel { background: #fff; border: 1px solid #eadfd3; padding: 10px 12px; }
+    .towns { font-weight: 700; font-size: 13.5px; color: #e85d04; }
+    .foot {
+      margin-top: auto;
+      background: #e85d04;
+      color: #fff;
+      display: grid;
+      grid-template-columns: 1.4fr .6fr;
+      padding: 8mm 12mm;
+      align-items: center;
+    }
+    .phone { font-size: 28px; font-weight: 800; letter-spacing: .02em; }
+    .small { font-size: 12.5px; }
+    @media print {
+      body { background: #fff; }
+      @page { size: A4; margin: 0; }
+      .sheet { box-shadow: none; }
+    }
+  </style>
+</head>
+<body>
+  <article class="sheet">
+    <header class="top">
+      <img src="assets/logo.jpg" alt="Upside Down Coffee on the Go" />
+      <div>
+        <p class="kicker">Goulburn Valley League finals 2026</p>
+        <h1>Upside Down Coffee on the Go</h1>
+        <p class="small" style="color:#ddd">Orange van. Self-sufficient. Already on GV footy grounds.</p>
+      </div>
+    </header>
+    <div class="hero">
+      <img src="assets/rushworth.jpg" alt="Orange coffee van at a country football ground" />
+      <p class="cap">Game day — no power or water needed from the club</p>
+    </div>
+    <div class="body">
+      <p class="tag">Book the van for GVL finals at Tatura, Seymour, Kyabram, Echuca or Mansfield.</p>
+      <div class="dates">
+        <div><strong>Week 1</strong><span>29–30 Aug</span></div>
+        <div><strong>Semis</strong><span>5–6 Sep</span></div>
+        <div><strong>Prelim</strong><span>Sun 13 Sep</span></div>
+        <div><strong>Grand final</strong><span>Sun 20 Sep</span></div>
+      </div>
+      <div class="cols">
+        <div>
+          <h2>What clubs get</h2>
+          <ul>
+            <li>We bring our own power and water. Set up on the netball courts, far wing or car park.</li>
+            <li>Open from 8am for netball and U18s.</li>
+            <li>Espresso, hot chocolate, iced drinks, milkshakes, slushies and snacks.</li>
+            <li>Already served Mooroopna, Kialla Park (SJDFL), Stanhope and Rushworth.</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h2>Even-year host grounds</h2>
+          <p class="towns">Tatura · Seymour · Kyabram · Echuca · Mansfield</p>
+          <p class="small" style="margin-top:8px">Board allocates the weekends after Round 18 (this Saturday). We hold the date once the host club says yes.</p>
+        </div>
+      </div>
+    </div>
+    <footer class="foot">
+      <div>
+        <p class="phone">0418 378 504</p>
+        <p class="small">upsidedowncoffee25@gmail.com · upsidedowncoffee.com.au</p>
+      </div>
+      <p class="small" style="text-align:right;font-weight:700">Book this week</p>
+    </footer>
+  </article>
+</body>
+</html>

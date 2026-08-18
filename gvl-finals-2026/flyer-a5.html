@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Upside Down Coffee on the Go — GVL Finals A5</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Poppins, system-ui, sans-serif; background: #fff; color: #1a1a1a; }
+    .card {
+      width: 148mm; height: 210mm; margin: 0 auto; background: #faf7f2;
+      display: flex; flex-direction: column; overflow: hidden;
+    }
+    .top { background: #1a1a1a; color: #fff; padding: 8mm 8mm 6mm; display: flex; gap: 8px; align-items: center; }
+    .top img { width: 18mm; height: 18mm; border-radius: 50%; object-fit: cover; }
+    h1 { font-size: 16px; line-height: 1.1; }
+    .kicker { color: #f4a261; font-size: 9px; letter-spacing: .14em; text-transform: uppercase; font-weight: 700; }
+    .pic { height: 78mm; }
+    .pic img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 60%; }
+    .mid { padding: 7mm 8mm; flex: 1; }
+    p, li { font-size: 12.5px; line-height: 1.35; }
+    ul { padding-left: 16px; margin: 6px 0; }
+    .towns { font-weight: 700; color: #e85d04; margin: 8px 0; }
+    .foot { background: #e85d04; color: #fff; padding: 7mm 8mm; }
+    .phone { font-size: 22px; font-weight: 800; }
+    @media print { @page { size: A5; margin: 0; } }
+  </style>
+</head>
+<body>
+  <article class="card">
+    <header class="top">
+      <img src="assets/logo.jpg" alt="" />
+      <div>
+        <p class="kicker">GVL finals 2026</p>
+        <h1>Upside Down Coffee on the Go</h1>
+      </div>
+    </header>
+    <div class="pic"><img src="assets/kialla.jpg" alt="Serving window at Kialla Park game day" /></div>
+    <div class="mid">
+      <p>Self-sufficient orange van for host clubs. No power or water from the ground.</p>
+      <ul>
+        <li>From 8am — netball and U18s</li>
+        <li>Coffee, slushies, milkshakes, snacks</li>
+        <li>Already at Mooroopna, Kialla Park, Stanhope, Rushworth</li>
+      </ul>
+      <p class="towns">Tatura · Seymour · Kyabram · Echuca · Mansfield</p>
+      <p>29–30 Aug · 5–6 Sep · 13 Sep · 20 Sep</p>
+    </div>
+    <footer class="foot">
+      <p class="phone">0418 378 504</p>
+      <p>upsidedowncoffee.com.au</p>
+    </footer>
+  </article>
+</body>
+</html>
