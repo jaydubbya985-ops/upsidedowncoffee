@@ -1,129 +1,74 @@
 # Emails and scripts
 
-Replace `04XX XXX XXX` and `hello@upsidedowncoffee.au` before sending.
+Van: **0418 378 504** · upsidedowncoffee25@gmail.com · upsidedowncoffee.com.au
 
 ---
 
-## 1. Tatura — first email (send after a voicemail to Catherine)
+## 1. Tatura
 
 **To:** cbrooks62@aapt.net.au, taturafnc@gmail.com  
-**Cc:** sam.green@gmwater.com.au, tfncacc@gmail.com  
-**Subject:** Coffee van for GVL finals at Tatura Rec — club commission, we don’t touch the canteen
+**Cc:** sam.green@gmwater.com.au  
+**Subject:** Coffee van for GVL finals at Tatura Rec — self-sufficient orange van
 
-Hi Catherine, Sam and Bec,
+Hi Catherine and Sam,
 
-Upside Down Coffee is a Seymour coffee van looking to help host clubs through GVL finals.
+Upside Down Coffee on the Go is the orange self-sufficient van (upsidedowncoffee.com.au). We already work GV footy grounds — Mooroopna, Kialla Park, Stanhope, Rushworth — and we did Tatura Dairy Week.
 
-Tatura is in the even-year host group with Seymour, Echuca, Kyabram and Mansfield. Week 1 is 29–30 August. We would like to be on the ground if the Bulldogs host — and we are also free for week 2 (5–6 September).
+Tatura is in the even-year GVL host group. Week 1 is 29–30 August. We would like to be on the Rec if the Bulldogs host, and we are free for 5–6 September as well.
 
-How we work with the canteen:
+We bring our own power and water. We set up at the netball courts or far wing so the canteen keeps the pies and the bar. Open from 8am for netball and U18s.
 
-- Coffee, hot chocolate, iced drinks and a short sweet tray only
-- No pies, no hot food, no bar
-- Park at the netball courts or far wing so we do not sit in front of the canteen
-- Open from 8am for netball and U18s
-- **10–15% of coffee sales back to TFNC**, or a flat site fee if you prefer
-- Public liability and food safety paperwork on request
+Flyer attached. Happy to walk the ground this Saturday (Tatura v Seymour).
 
-Tatura Bakery’s van already covers some Saturdays — we are pitching as a second coffee point for a finals crowd, not as a replacement.
-
-Flyer attached. Happy to walk the ground this Saturday (Tatura v Seymour, Round 18).
-
-Jay  
-Upside Down Coffee, Seymour  
-04XX XXX XXX · hello@upsidedowncoffee.au
+0418 378 504
 
 ---
 
-## 2. Seymour — home club
+## 2. Seymour
 
 **To:** sfncsecretary@outlook.com  
-**Subject:** Kings Park GVL finals — Seymour coffee van, club cut on every cup
+**Subject:** Kings Park GVL finals — Upside Down Coffee on the Go
 
 Hi Lions committee,
 
-Upside Down Coffee is based in Seymour and we want Kings Park looked after if the GVL sends a final our way.
+If GVL sends a final to Kings Park we would like the coffee van there. 2024 even-year semis were at Kings Park. Week 1 is 29–30 August, semis 5–6 September.
 
-2024 even-year semis were at Kings Park. 2026 is the same host group. Week 1 is 29–30 August, semis 5–6 September.
+Self-sufficient van — no power or water from the club. Already on Mooroopna, Kialla Park, Stanhope and Rushworth game days.
 
-Offer to SFNC:
-
-- Specialty coffee van from 8am
-- We do not sell canteen food
-- 10–15% of coffee sales to the club (or a site fee)
-- Public liability + food safety certs ready
-
-Flyer attached. If you already have a van locked, we can sit this one out and help at Tatura instead — just say the word.
-
-Jay  
-Upside Down Coffee  
-04XX XXX XXX
+Flyer attached. 0418 378 504
 
 ---
 
-## 3. Kyabram / Echuca / Mansfield (same body, change the club name)
+## 3. Kyabram / Echuca / Mansfield
 
-**Subject:** GVL finals coffee van — [Club], club commission, canteen-friendly
+**Subject:** GVL finals coffee van — [Club]
 
 Hi [Club] committee,
 
-Upside Down Coffee (Seymour) is booking host clubs for the 2026 GVL finals.
+Upside Down Coffee on the Go (orange van, Shepparton) is booking even-year GVL host grounds: Tatura, Seymour, Kyabram, Echuca, Mansfield.
 
-Even-year host grounds are Kyabram, Echuca, Mansfield, Seymour and Tatura. We can cover week 1 (29–30 Aug) or week 2 (5–6 Sep), including Wilf Cox if Kyabram is given the semi-final weekend.
+We bring power and water. We park off the canteen. From 8am. Flyer attached.
 
-We take the coffee queue only. Canteen keeps pies and the bar. Host club gets 10–15% of coffee sales or a flat site fee.
+If you are hosting, one line with the date is enough.
 
-Flyer attached. If you are hosting, a one-line reply with the date is enough and we will follow up with paperwork.
-
-Jay  
-Upside Down Coffee · 04XX XXX XXX
+0418 378 504 · upsidedowncoffee25@gmail.com
 
 ---
 
-## 4. League office (after the phone call)
+## 4. GVL office
 
-**Subject:** Outside coffee van — 2026 finals venues / host-club process
+**Subject:** 2026 finals venues — coffee van with host clubs
 
 Hi Brad,
 
-Following our call. Upside Down Coffee (Seymour) is offering host clubs a coffee van for the 2026 GVL finals — coffee only, commission back to the host, not in front of the canteen.
+Upside Down Coffee on the Go is offering host clubs a self-sufficient coffee van for the 2026 finals.
 
-Could you please:
+When will week 1 venues be posted, and do vendors need league sign-off once the host club agrees?
 
-1. Confirm when week 1 venues will be posted
-2. Confirm whether vendors need league sign-off once the host club agrees
-3. Share the best email for the five even-year host secretaries if we are missing any
-
-Flyer attached for the club pack.
-
-Thanks  
-Jay · Upside Down Coffee · 04XX XXX XXX
+0418 378 504
 
 ---
 
-## 5. Finals clubs (BCC pack)
+## Phone script
 
-**Subject:** GVL finals coffee van — Seymour, on the ground from 8am
-
-Hi committees,
-
-Upside Down Coffee is a Seymour van booking GVL finals grounds (Tatura, Kings Park, Kyabram, Echuca, Mansfield) and club functions.
-
-If your club makes finals: we can be at the host ground, or at your rooms for Thursday nights / presentation.
-
-Coffee and hot chocolate only — we leave the canteen’s food alone. Host clubs get a cut.
-
-Flyer attached. Text 04XX XXX XXX if you want a date held.
-
-Jay
-
----
-
-## Phone script (60 seconds)
-
-“Hi, it’s Jay from Upside Down Coffee in Seymour. I’m after whoever runs the canteen or the ground for GVL finals.  
-We’re a coffee van — we don’t sell pies, we park down at the netball courts, and we put 10 to 15 percent of coffee back to the club.  
-Finals start the 29th. Tatura’s in the even-year host group. Have you got a coffee van locked in yet, or can I send a one-page flyer?”
-
-If they say the bakery already does Saturdays:  
-“That’s fine — finals are a different crowd. We’re happy to be the second machine for netball and U18s so your canteen isn’t three-deep at 9am. I’ll email Catherine / the secretary today.”
+“Hi, Upside Down Coffee on the Go — the orange van. I’m after whoever runs the ground for GVL finals. We bring our own power and water, we park down at the netball courts, and we’re already on Mooroopna, Kialla Park, Stanhope and Rushworth. Finals start the 29th. Have you got a coffee van locked in?”
