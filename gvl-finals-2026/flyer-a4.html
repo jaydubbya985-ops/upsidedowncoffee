@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Upside Down Coffee — GVL Finals 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #1c140f;
+      --cream: #f6efe4;
+      --paper: #fffaf3;
+      --coffee: #5c3317;
+      --foam: #d9b99b;
+      --green: #1f4d32;
+      --gold: #c4a35a;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--paper);
+      font-family: Outfit, system-ui, sans-serif;
+      color: var(--ink);
+    }
+    .sheet {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto;
+      background: var(--paper);
+      position: relative;
+      overflow: hidden;
+    }
+    .stripe {
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 14mm;
+      background: linear-gradient(180deg, var(--green), var(--coffee));
+    }
+    .inner {
+      padding: 14mm 16mm 12mm 24mm;
+      min-height: 297mm;
+      display: flex;
+      flex-direction: column;
+    }
+    .kicker {
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--green);
+    }
+    h1 {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 46px;
+      line-height: 0.95;
+      margin: 8px 0 6px;
+      color: var(--coffee);
+    }
+    .tag {
+      font-size: 18px;
+      font-weight: 500;
+      max-width: 150mm;
+    }
+    .banner {
+      margin: 14px 0 16px;
+      background: var(--green);
+      color: var(--cream);
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 16px;
+      border-radius: 4px;
+    }
+    .banner strong { display: block; font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; }
+    .banner span { font-size: 15px; }
+    .grid {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 14px;
+      flex: 1;
+    }
+    h2 {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 20px;
+      color: var(--coffee);
+      margin-bottom: 8px;
+    }
+    ul { padding-left: 18px; }
+    li { margin: 0 0 7px; font-size: 14.5px; line-height: 1.35; }
+    .panel {
+      background: var(--cream);
+      border: 1px solid var(--foam);
+      padding: 14px 16px;
+      border-radius: 4px;
+    }
+    .dates td { padding: 5px 8px 5px 0; font-size: 14px; vertical-align: top; }
+    .dates td:first-child { font-weight: 700; color: var(--green); white-space: nowrap; }
+    .hosts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    .hosts span {
+      background: var(--paper);
+      border: 1px solid var(--gold);
+      padding: 4px 8px;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+    }
+    .deal {
+      background: var(--coffee);
+      color: var(--cream);
+      padding: 16px;
+      border-radius: 4px;
+      margin-top: 14px;
+    }
+    .deal h2 { color: var(--gold); }
+    .deal p { font-size: 15px; line-height: 1.4; }
+    .foot {
+      margin-top: 16px;
+      display: grid;
+      grid-template-columns: 1.3fr 0.7fr;
+      gap: 12px;
+      align-items: end;
+      border-top: 2px solid var(--gold);
+      padding-top: 12px;
+    }
+    .phone {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 28px;
+      color: var(--coffee);
+      line-height: 1.1;
+    }
+    .small { font-size: 13px; color: #4a3b32; }
+    .edit {
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #8a6a4a;
+    }
+    @media print {
+      body { background: white; }
+      .sheet { margin: 0; box-shadow: none; }
+      @page { size: A4; margin: 0; }
+    }
+  </style>
+</head>
+<body>
+  <article class="sheet">
+    <div class="stripe"></div>
+    <div class="inner">
+      <p class="kicker">Seymour coffee van · Goulburn Valley League finals</p>
+      <h1>Upside Down<br />Coffee</h1>
+      <p class="tag">We take the coffee queue off your canteen so the club keeps the pies, the bar, and a cut of every cup.</p>
+
+      <div class="banner">
+        <div><strong>Week 1</strong><span>Sat 29 – Sun 30 Aug</span></div>
+        <div><strong>Semis</strong><span>5 – 6 September</span></div>
+        <div><strong>Prelim</strong><span>Sunday 13 Sep</span></div>
+        <div><strong>Grand final</strong><span>Sunday 20 Sep</span></div>
+      </div>
+
+      <div class="grid">
+        <div>
+          <h2>What we bring on finals day</h2>
+          <ul>
+            <li>Espresso coffee, hot chocolate, iced drinks from 8am — netball and U18s eat first.</li>
+            <li>A short sweet tray only. No pies, no hot food, no alcohol.</li>
+            <li>Parked at the netball courts or far wing, not in front of the canteen.</li>
+            <li>Card and cash. Public liability and food-safety paperwork on request.</li>
+            <li>One van, one barista team, set up before the first whistle.</li>
+          </ul>
+
+          <div class="deal">
+            <h2>Club deal</h2>
+            <p><strong>10–15% of coffee sales</strong> back to the host club, or a flat site fee if that is cleaner for the treasurer. You keep all canteen and bar takings.</p>
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Even-year host grounds</h2>
+          <p class="small">GVL bylaws put 2026 finals at these clubs. The board allocates the actual weekends after Round 18.</p>
+          <div class="hosts">
+            <span>Tatura</span>
+            <span>Seymour</span>
+            <span>Kyabram</span>
+            <span>Echuca</span>
+            <span>Mansfield</span>
+          </div>
+          <table class="dates" style="margin-top:14px;width:100%">
+            <tr><td>Tatura Rec</td><td>Hastie St · Ballantyne Centre</td></tr>
+            <tr><td>Kings Park</td><td>Seymour (home van)</td></tr>
+            <tr><td>Wilf Cox</td><td>Kyabram — week 2 if the lift is in</td></tr>
+            <tr><td>Victoria Park</td><td>Echuca</td></tr>
+            <tr><td>Memorial Oval</td><td>Mansfield</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="foot">
+        <div>
+          <p class="edit">Edit this block before print</p>
+          <p class="phone">04XX XXX XXX</p>
+          <p class="small">hello@upsidedowncoffee.au · @upsidedowncoffee</p>
+          <p class="small" style="margin-top:6px">Ask for Jay. We will walk the ground with your canteen convener.</p>
+        </div>
+        <div style="text-align:right">
+          <p class="kicker">Book this week</p>
+          <p class="small">Venues lock in after Saturday’s last home-and-away round.</p>
+        </div>
+      </div>
+    </div>
+  </article>
+</body>
+</html>

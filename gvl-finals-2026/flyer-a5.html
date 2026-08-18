@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Upside Down Coffee — GVL Finals A5</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #fffaf3; font-family: Outfit, system-ui, sans-serif; color: #1c140f; }
+    .card {
+      width: 148mm;
+      height: 210mm;
+      margin: 0 auto;
+      background: #fffaf3;
+      padding: 12mm;
+      position: relative;
+      overflow: hidden;
+    }
+    .card:before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 11mm;
+      background: #1f4d32;
+    }
+    h1 {
+      font-family: Fraunces, Georgia, serif;
+      color: #5c3317;
+      font-size: 34px;
+      line-height: 0.95;
+      margin: 10mm 0 8px;
+    }
+    .kicker {
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      font-size: 10px;
+      font-weight: 700;
+      color: #1f4d32;
+      margin-top: 4mm;
+    }
+    p { font-size: 14px; line-height: 1.4; margin: 8px 0; }
+    ul { padding-left: 16px; font-size: 13.5px; }
+    li { margin: 0 0 6px; }
+    .hosts { font-weight: 700; color: #1f4d32; }
+    .phone {
+      font-family: Fraunces, Georgia, serif;
+      font-size: 26px;
+      color: #5c3317;
+      margin-top: 10px;
+    }
+    .bar {
+      margin-top: 12px;
+      background: #5c3317;
+      color: #f6efe4;
+      padding: 10px 12px;
+      font-size: 14px;
+    }
+    @media print {
+      body { background: #fff; }
+      .card { margin: 0; box-shadow: none; }
+      @page { size: A5; margin: 0; }
+    }
+  </style>
+</head>
+<body>
+  <article class="card">
+    <p class="kicker">GVL finals 2026 · Seymour van</p>
+    <h1>Upside Down Coffee</h1>
+    <p>Coffee van for host clubs. We do the coffees. You keep the canteen.</p>
+    <ul>
+      <li>From 8am — netball and U18s</li>
+      <li>No pies, no bar, no queue in your doorway</li>
+      <li><strong>10–15% of coffee back to the club</strong></li>
+    </ul>
+    <p class="hosts">Tatura · Seymour · Kyabram · Echuca · Mansfield</p>
+    <p>29–30 Aug · 5–6 Sep · 13 Sep · 20 Sep</p>
+    <div class="bar">Book this week — venues lock in after Round 18.</div>
+    <p class="phone">04XX XXX XXX</p>
+    <p>hello@upsidedowncoffee.au · Ask for Jay</p>
+  </article>
+</body>
+</html>
